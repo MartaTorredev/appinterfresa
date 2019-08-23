@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Interfresa.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>armv7</string>
+				<string>arm64</string>
+			</array>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>115E6C93BD575D2EDEDFFAF0D0F82F8DAC882E5B</string>
+				<key>dateExpires</key>
+				<string>1/10/18</string>
+				<key>type</key>
+				<string>iOS Development</string>
+			</dict>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>75EC2AN39L.com.ondesarrollo.interfresa</string>
+				<key>aps-environment</key>
+				<string>development</string>
+				<key>com.apple.developer.team-identifier</key>
+				<string>75EC2AN39L</string>
+				<key>get-task-allow</key>
+				<true/>
+			</dict>
+			<key>name</key>
+			<string>Interfresa.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>af8b6bcf-9cdf-4f70-aafb-b4ba34bef043</string>
+				<key>name</key>
+				<string>iOS Team Provisioning Profile: com.ondesarrollo.interfresa</string>
+			</dict>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>75EC2AN39L</string>
+				<key>name</key>
+				<string>Marta Torre</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
